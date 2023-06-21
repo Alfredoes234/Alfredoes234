@@ -6,9 +6,9 @@
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Javascript|
+|     1| Typescript|
 |     2| Python    |
-|     3| SQL       |
+|     3| C/C++     |
 
 </details>
 <!--
