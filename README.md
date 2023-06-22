@@ -8,7 +8,6 @@
 |-----:|-----------|
 |     1| Typescript|
 |     2| Python    |
-|     3| C/C++     |
 
 </details>
 
