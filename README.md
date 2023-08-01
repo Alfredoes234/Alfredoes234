@@ -2,7 +2,7 @@
 
 
 <details>
-<summary>My top languages</summary>
+<summary>My top fun</summary>
 
 | Rank | Languages |
 |-----:|-----------|
