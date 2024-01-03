@@ -3,12 +3,13 @@
 ## Stuff
 
 <details>
-<summary>My top fun</summary>
+<summary>My top languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
 |     1| Typescript|
-|     2| Python    |
+|     2| Rust      |
+|     3| Python    |
 
 </details>
 
