@@ -24,11 +24,11 @@ This is going to be the basic tech stack for a website that I am going to use.
 <details>
 <summary>My website stack</summary>
 
-| Piece         |        Item |
-|--------------:|-------------|
-| 1 Frontend    |   TS(Remix) |
-| 2 Backend     |        Rust |
-| 3 Database    | PostgresSql |
+| Piece         |                   Item |
+|--------------:|------------------------|
+| 1 Frontend    |   TS(React/equivalent) |
+| 2 Backend     |                   Rust |
+| 3 Database    |            PostgresSql |
 
 </details>
 
