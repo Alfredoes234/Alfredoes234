@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
+## Stuff
 
 <details>
 <summary>My top fun</summary>
@@ -15,6 +16,22 @@
 > If we pull together and commit ourselves, then we can push through anything.
 
 — Mona the Octocat
+
+
+### The Stacks
+
+This is going to be the basic tech stack for a website that I am going to use.
+<details>
+<summary>My website stack</summary>
+
+| Piece         |        Item |
+|--------------:|-------------|
+| 1 Frontend    |   TS(Remix) |
+| 2 Backend     |        Rust |
+| 3 Database    | PostgresSql |
+
+</details>
+
 
 
 <!--
