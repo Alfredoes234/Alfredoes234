@@ -8,8 +8,8 @@ I have started to get into coding full time about a year ago and I am slowly lea
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [alfie.rayner30@gmail.com](mailto:alfie.rayner30@gmail.com)
-* 🚀  I'm currently working on [Privite](http://github.com/Alfredoes234/Privite)
-* 🧠  I'm learning Rust
+* 🚀  I'm currently working on [portfoliov2](http://github.com/Alfredoes234/Privite](https://github.com/Alfredoes234/portfoliov2)
+* 🧠  I'm learning Zig
 * ⚡  I like to play games from old consoles
 
 <a href="https://www.github.com/Alfredoes234" target="_blank" rel="noreferrer"><img
